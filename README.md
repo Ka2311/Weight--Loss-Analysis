@@ -10,11 +10,11 @@ R programming is a statistical programming language and software environment for
 
 # ANOVA Experiment:
 ANOVA (Analysis of Variance) is a statistical method used to determine whether there are any statistically significant differences between the means of two or more groups. An ANOVA experiment involves comparing the variation between groups to the variation within groups, to determine if the variation between groups is large enough to suggest that there is a significant difference in the means.
-The ANOVA test generates an F-statistic, which measures the ratio of between groups variation to within groups variation. If the F-statistic is large and the associated p-value is small, we can conclude that there is a significant difference between the groups being compared.
+The ANOVA test generates an F-statistic, which measures the ratio of between groups variation to within groups variation. If the F-statistic is large and the associated p-value is small, we can conclude that there is a significant difference between the groups being compared.
 
 
 
 # Data Visualization:
-![This is Visulization](image.png)
 
+![This is Visulization](image.png)
 
