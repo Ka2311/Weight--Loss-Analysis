@@ -1,4 +1,4 @@
-# Weight--Loss-Analysis
+# Weight-Loss-Analysis
 
 # Problem Statement:
 A fitness center wants to determine if there is a significant difference in the average response time of three different workout programs. the data is stored in a CSV file named "weight_loss_data.csv" (source: kaggle) with the following columns: Workout_Program(A, B, or C), Participent_ID, and Weight_loss(in pounds) . Design an ANOVA experiment in R to analyze the data and determine if there is a significant difference in the average weight loss across the three workout programs.
